@@ -1,0 +1,38 @@
+/* style.css */
+
+.stApp {
+    background-color: #74a542; /* Background color set to #74a542 */
+    color: #000000; /* Default text color set to black */
+}
+.css-18e3th9 {
+    background-color: #d6e7c4; /* Sidebar background color set to #d6e7c4 */
+}
+.css-1d391kg {
+    color: #000000; /* Text color inside sidebar */
+}
+.css-1a32fsj, .css-1n543e5 {
+    background-color: #388e3c;
+    color: #ffffff;
+}
+.css-2trqyj {
+    color: #1b5e20;
+}
+.css-qrbaxs {
+    background-color: #a5d6a7;
+}
+.css-1q8dd3e {
+    background-color: #81c784;
+}
+/* Title style */
+.stMarkdown h1 {
+    color: #000000; /* Black color for the title */
+}
+.css-1vbd788 p, .css-1vbd788 div {
+    color: #000000; /* Ensures all paragraph and div text is black */
+}
+.css-1vbd788 h2 {
+    color: #000000; /* Ensures all h2 headers are black */
+}
+.css-1vbd788 table {
+    color: #000000; /* Ensures table text is black */
+}
